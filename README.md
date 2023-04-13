@@ -55,4 +55,4 @@ The model was trained using Python and TensorFlow in Google Colab, and the Colab
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details. 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sonosergi/Workout-Classifier/blob/main/LICENSE) file for details. 
