@@ -19,7 +19,7 @@ The user can select their device's camera and a canvas will show up with the cam
 * Place the pre-trained model files (.h5) and the TensorFlow.js files in the root folder of the project.
 * Open the index.html file in your web browser.
 
-### Usage
+## Usage
 
 * Open the index.html file in your web browser.
 * Allow the application to access your device's camera.
@@ -49,10 +49,10 @@ If you want to open it on your mobile device, you cannot just use the local IP a
 * The tunnel expires after 2 hours, but you can restart ngrok in that case
 * Open a browser on your mobile device and go to the indicated HTTPS link.
 
-### Model Training
+## Model Training
 
 The model was trained using Python and TensorFlow in Google Colab, and the Colab notebook is also included in the repository.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details. 
