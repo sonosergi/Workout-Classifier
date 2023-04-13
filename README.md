@@ -1,6 +1,7 @@
 # Workout - Classifier
+
 This code represents a website where a pre-trained computer vision model is utilized to classify exercises in real-time using the camera feed of the user's device. The model is built with the *InceptionResNetV2* architecture and trained on the *Workout/Exercise Images dataset* from Kaggle. The pre-trained model is exported to a .json file and can be used in the browser via TensorFlow.js.
-***
+
 ## How it works
 
 The user can select their device's camera and a canvas will show up with the camera feed. The user can perform exercises in front of the camera, and the application will use the pre-trained model to classify the exercise in real-time. The classification result will be displayed on the page.
@@ -52,12 +53,10 @@ If you want to open it on your mobile device, you cannot just use the local IP a
 
 The model was trained using Python and TensorFlow in Google Colab, and the Colab notebook is also included in the repository.
 
----    
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for details. 
 
----
 ## Acknowledgments
 
 * The pre-trained model was built with TensorFlow and the [InceptionResNetV2](https://keras.io/api/applications/inceptionresnetv2/) architecture.
