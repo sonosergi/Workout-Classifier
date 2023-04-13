@@ -16,8 +16,8 @@ The user can select their device's camera and a canvas will show up with the cam
 ### Installation
 
 * Clone or download this repository.
-* Place the pre-trained model files (.h5) and the TensorFlow.js files in the root folder of the project.
-* Open the index.html file in your web browser.
+* Place the pre-trained model file (.json) and the TensorFlow.js files in the root folder of the project *(coming soon).*
+* Open the index.html file in your web browser *(coming soon).*
 
 ## Usage
 
